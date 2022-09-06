@@ -215,15 +215,15 @@ exit
 }
 
 clear;
-echo -e "\033[31m$(figlet -f Remo773 "T- Header")\e[0m"
+echo -e "\033[31m$(figlet -f TECHNICAL YUSUF "YUSUF")\e[0m"
 echo -e "\e[1;32m
 +----------------------------------*/
-Technical Yusuf : (\e[33m14.4.2021\e[32m)
+Technical Yusuf : (\e[33m14.4.2022\e[32m)
 
 1. Oh-my-zsh
 2. Zsh-syntax-highlight (\e[33mplugins\e[01;32m)
 3. Zsh-command-autosuggest (\e[33mplugins\e[01;32m)
-4. Terminal-Header
+4. TECHNICAL YUSUF 
 5. Custom PS1 prompt ( \e[33mBest one\e[1;32m )
 +----------------------------------*/
 \033[0m";
